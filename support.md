@@ -4,7 +4,7 @@ Support for MoofDash, an iOS companion app for VanMoof S3 riders.
 
 ## Contact
 
-For app support, bug reports, or privacy questions, email [Perez.Cristian+ace@ace.aaa.com](mailto:Perez.Cristian+ace@ace.aaa.com).
+For app support, bug reports, or privacy questions, email [criistianaaron@gmail.com](mailto:criistianaaron@gmail.com).
 
 ## Bluetooth Connection
 

@@ -34,4 +34,4 @@ You can change Bluetooth, Location, Media, and other permissions in the iOS Sett
 
 ## Contact
 
-For privacy questions, email [Perez.Cristian+ace@ace.aaa.com](mailto:Perez.Cristian+ace@ace.aaa.com).
+For privacy questions, email [criistianaaron@gmail.com](mailto:criistianaaron@gmail.com).
